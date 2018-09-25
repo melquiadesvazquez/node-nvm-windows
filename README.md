@@ -1,4 +1,4 @@
-# How to run multiple versions of NodeJS with NVM for Windows 10
+# Run multiple versions of NodeJS with NVM on Windows 10
 I had several problems installing Node with NVM on Windows and following these instructions I fixed the issues:
 
 1 Uninstall NodeJS compleatly from your machine.
